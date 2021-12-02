@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 👋
 
 <!--
 **etrancho/etrancho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>What I'm currently working on👨🏽‍💻</h2>
+<h2>What I'm currently working on</h2>
 <a href="https://github.com/etrancho/UnityAndNodejs">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=etrancho&repo=UnityAndNodejs&theme=dark" alt="Current Repo" width="400px" height="140px"/>
 </a>
