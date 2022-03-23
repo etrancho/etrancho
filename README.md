@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <h2>I'm currently working on: </h2>
-<a href="https://github.com/etrancho/3dVistaProject">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=etrancho&repo=3dVistaProject&theme=dark" alt="Current Repo" width="400px" height="140px"/>
+<a href="https://github.com/AdriLorenz/Treasure-Hunt/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=etrancho&repo=Treasure-Huntt&theme=dark" alt="Current Repo" width="400px" height="140px"/>
 </a>
