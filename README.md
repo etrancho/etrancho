@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 <h2>I'm currently working on: </h2>
 <a href="https://github.com/etrancho/ParqueTecnologicoGaldar">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=etrancho&repo=ParqueTecnologicoGaldar&theme=dark" alt="Current Repo" width="400px" height="140px"/>
+ </a>
+ <a href="https://github.com/etrancho/MyHome">  
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=etrancho&repo=MyHome&theme=dark" alt="Current Repo" width="400px" height="140px"/>
 </a>
