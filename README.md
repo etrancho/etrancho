@@ -1,4 +1,4 @@
-<h2>Some facts about me:</h2>
+<h2>Some facts about me 💬</h2>
 <p>- I'm currently learning some programming courses from <a href="https://www.idtech.com/">iD Tech.</a></p>
 <p>- I love to play and program videogames and I would like to learn more in the future.</p>
 <p>- My current favourite programming language is C#.</p>
@@ -6,7 +6,7 @@
 <p>- My favourites sports are volleyball and padel.</p>
 
 
-<h2>My knowledge when it comes to coding:</h2>
+<h2>My knowledge when it comes to coding 💻</h2>
 <h3></h3>
 <div class="row">
  <h3>Tools</h3>
@@ -26,7 +26,7 @@
 </div>
 
 
-<h2>I'm currently learning:</h2>
+<h2>I'm currently learning 👨🏽‍💻</h2>
 <div class="row">
 
   <img src="https://user-images.githubusercontent.com/77303061/178083134-609ed7ef-f547-4531-a6d5-b76abeec064a.png" width="250px" height="150px"/>
