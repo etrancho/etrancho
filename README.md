@@ -1,21 +1,44 @@
-<h2><b>About me:<b></h2>
-<p>- Eva Trancho</p>
-<p>- Student</p>
-<p>- She/her</p>
-<p>- 19 years old</p>
-<p>- Canary Island, Spain</p>
-<p>- <a href="mailto:evatrancho@gmail.com">evatrancho@gmail.com</a></p>
+<h2>Some facts about me:</h2>
+<p>- I'm currently learning some programming courses from <a href="https://www.idtech.com/">iD Tech.</a></p>
+<p>- I love to play and program videogames and I would like to learn more in the future.</p>
+<p>- My current favourite programming language is C#.</p>
+<p>- I like to listen to music while programming, I'm in a better mood.</p>
+<p>- My favourites sports are volleyball and padel.</p>
+
+
+<h2>My knowledge when it comes to coding:</h2>
+<h3></h3>
+<div class="row">
+ <h3>Tools</h3>
+ <img src="https://user-images.githubusercontent.com/77303061/178125196-ccd064c4-4686-4c8c-8308-1959ba3fa6a2.png" width="100px" height="45px" alt="git"/>
+ <h3>Programming languages</h3>
+ <img src="https://user-images.githubusercontent.com/77303061/178125094-3020e6cd-8b1a-478e-9f4f-266cfed81b1f.png" width="50px" height="50px" alt="c#"/>
+ <img src="https://user-images.githubusercontent.com/77303061/178125161-c4080e9e-8152-496b-8fee-bbdb8b86bf28.png" width="60px" height="60px" alt="html5"/>
+ <img src="https://user-images.githubusercontent.com/77303061/178125318-b2fd1c23-060c-493d-bb0f-908e1b6c5fc3.png" width="45px" height="60px" alt="css"/>
+ <img src="https://user-images.githubusercontent.com/77303061/178125061-9a98c27a-e6c3-4e42-8ad8-1e8063235a98.png" width="60px" height="60px" alt="js"/>
+ <img src="https://user-images.githubusercontent.com/77303061/178125143-0c287cd3-880b-455c-906b-00af4becb258.png" width="80px" height="50px" alt="python"/>
+ <img src="https://user-images.githubusercontent.com/77303061/178125221-fe9dd1b0-5b66-4047-85a1-0cdb046ece2e.png" width="60px" height="60px" alt="java"/>
+ <img src="https://user-images.githubusercontent.com/77303061/178124868-04a74945-0cfa-45d6-b2cf-9443ee5011c3.png" width="60px" height="60px" alt="react"/>
+ <h3>Databases</h3>
+ <img src="https://user-images.githubusercontent.com/77303061/178125180-01160dc9-0300-4683-939b-476423aa9b39.png" width="80px" height="60px" alt="mysql"/>
+ <img src="https://user-images.githubusercontent.com/77303061/178125389-cf3d7faf-fec7-4bfa-a6a0-a49eefdc43a2.png" width="100px" height="100px" alt="nodejs"/>
+ <img src="https://user-images.githubusercontent.com/77303061/178125205-3ba95f39-695f-45cd-8749-4bed24188af5.png" width="150px" height="100px" alt="mongodb"/>
+</div>
 
 
 <h2>I'm currently learning:</h2>
-<img src="https://user-images.githubusercontent.com/77303061/178083134-609ed7ef-f547-4531-a6d5-b76abeec064a.png" width="250px" height="150px" alt= "https://www.idtech.com/courses/virtual-academy-ar-vr-unity-nyu-tandon#/reg-flow/product-availability"/>
-<p>AR/VR Design Certificate in Unity</p>
+<div class="row">
 
-<img src="https://user-images.githubusercontent.com/77303061/178085184-848a4276-5e6b-433e-8ba1-7358cb467bc4.png" width="250px" height="150px" alt="https://www.idtech.com/courses/virtual-javascript-coding-powered-by-mit-open-learning-teen-tech-summer-certification-1#/reg-flow/product-availability"/>
-<p>JavaScript Coding</p>
+  <img src="https://user-images.githubusercontent.com/77303061/178083134-609ed7ef-f547-4531-a6d5-b76abeec064a.png" width="250px" height="150px"/>
+  <a href="https://www.idtech.com/courses/virtual-academy-ar-vr-unity-nyu-tandon#/reg-flow/product-availability">AR/VR Design Certificate in Unity</a>
 
-<img src="https://user-images.githubusercontent.com/77303061/178085166-5beb19e2-0b24-4e2d-94a8-d093305a1714.png" width="250px" height="150px" alt="https://www.idtech.com/courses/virtual-academy-ai-machine-learning-nvidia#/reg-flow/product-availability"/>
-<p>Artificial Intelligence and Machine Learning</p>
+  <img src="https://user-images.githubusercontent.com/77303061/178085184-848a4276-5e6b-433e-8ba1-7358cb467bc4.png" width="250px" height="150px"/>
+  <a href="https://www.idtech.com/courses/virtual-javascript-coding-powered-by-mit-open-learning-teen-tech-summer-certification-1#/reg-flow/product-availability">JavaScript Coding</a>
+
+  <img src="https://user-images.githubusercontent.com/77303061/178085166-5beb19e2-0b24-4e2d-94a8-d093305a1714.png" width="250px" height="150px"/>
+  <a href="https://www.idtech.com/courses/virtual-academy-ai-machine-learning-nvidia#/reg-flow/product-availability">Artificial Intelligence and Machine Learning</a>
+
+</div>
 
 
 <h2>I'm currently working on (from AR/VR Design Certificate in Unity):</h2>
@@ -24,14 +47,6 @@
  </a>
 
 
-<h2>Ask me about:</h2>
-<div class="row">
- <a href="https://unity.com/es">
-  <img src="https://user-images.githubusercontent.com/77303061/178077667-73cc3d3f-f59b-4e91-8012-3c42b5dce1d5.png" width="250px" height="150px" />
- </a>
- <a href="https://www.aseprite.org/">
-  <img src="https://user-images.githubusercontent.com/77303061/178077878-11e8ea90-b648-4d8d-9250-e31d1c1bfb55.png" width="300px" height="100px"/>
- </a>
-</div>
+
  
 
