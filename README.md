@@ -24,7 +24,7 @@
  </a>
 
 
- <h2>Ask me about</h2>
+<h2>Ask me about</h2>
 <div class="row">
  <a href="https://unity.com/es">
   <img src="https://user-images.githubusercontent.com/77303061/178077667-73cc3d3f-f59b-4e91-8012-3c42b5dce1d5.png" width="250px" height="150px" />
