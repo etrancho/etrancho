@@ -18,7 +18,7 @@
 <p>Artificial Intelligence and Machine Learning</p>
 
 
-<h2>I'm currently working on</h2>
+<h2>I'm currently working on (from AR/VR Design Certificate in Unity)</h2>
  <a href="https://github.com/etrancho/Discover-Things">  
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=etrancho&repo=Discover-Things&theme=dark" alt="Current Repo" width="400px" height="140px"/>
  </a>
