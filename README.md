@@ -7,7 +7,7 @@
 <p>- <a href="mailto:evatrancho@gmail.com">evatrancho@gmail.com</a></p>
 
 
-<h2>I'm currently learning</h2>
+<h2>I'm currently learning:</h2>
 <img src="https://user-images.githubusercontent.com/77303061/178083134-609ed7ef-f547-4531-a6d5-b76abeec064a.png" width="250px" height="150px" alt= "https://www.idtech.com/courses/virtual-academy-ar-vr-unity-nyu-tandon#/reg-flow/product-availability"/>
 <p>AR/VR Design Certificate in Unity</p>
 
@@ -18,13 +18,13 @@
 <p>Artificial Intelligence and Machine Learning</p>
 
 
-<h2>I'm currently working on (from AR/VR Design Certificate in Unity)</h2>
+<h2>I'm currently working on (from AR/VR Design Certificate in Unity):</h2>
  <a href="https://github.com/etrancho/Discover-Things">  
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=etrancho&repo=Discover-Things&theme=dark" alt="Current Repo" width="400px" height="140px"/>
  </a>
 
 
-<h2>Ask me about</h2>
+<h2>Ask me about:</h2>
 <div class="row">
  <a href="https://unity.com/es">
   <img src="https://user-images.githubusercontent.com/77303061/178077667-73cc3d3f-f59b-4e91-8012-3c42b5dce1d5.png" width="250px" height="150px" />
