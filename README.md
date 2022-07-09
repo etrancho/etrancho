@@ -6,7 +6,7 @@
 <p>- My favourites sports are volleyball and padel.</p>
 
 
-<h2>My knowledge when it comes to coding 💻</h2>
+<h2>My knowledge when it comes to coding 👩‍💻</h2>
 <h3></h3>
 <div class="row">
  <h3>Tools</h3>
@@ -26,7 +26,7 @@
 </div>
 
 
-<h2>I'm currently learning 👨🏽‍💻</h2>
+<h2>I'm currently learning 💻</h2>
 <div class="row">
 
   <img src="https://user-images.githubusercontent.com/77303061/178083134-609ed7ef-f547-4531-a6d5-b76abeec064a.png" width="250px" height="150px"/>
@@ -41,7 +41,7 @@
 </div>
 
 
-<h2>I'm currently working on (from AR/VR Design Certificate in Unity):</h2>
+<h2>I'm currently working on (from AR/VR Design Certificate in Unity) 💼</h2>
  <a href="https://github.com/etrancho/Discover-Things">  
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=etrancho&repo=Discover-Things&theme=dark" alt="Current Repo" width="400px" height="140px"/>
  </a>
