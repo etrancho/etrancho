@@ -20,7 +20,7 @@
  <img src="https://user-images.githubusercontent.com/77303061/178125221-fe9dd1b0-5b66-4047-85a1-0cdb046ece2e.png" width="60px" height="60px" alt="java"/>
  <img src="https://user-images.githubusercontent.com/77303061/178124868-04a74945-0cfa-45d6-b2cf-9443ee5011c3.png" width="60px" height="60px" alt="react"/>
  <h3>Databases</h3>
- <img src="https://user-images.githubusercontent.com/77303061/178125180-01160dc9-0300-4683-939b-476423aa9b39.png" width="80px" height="60px" alt="mysql"/>
+ <img src="https://user-images.githubusercontent.com/77303061/178155595-39610d40-0f8f-434d-9cb3-5ecfd7e31753.png" width="130px" height="90px" alt="mysql"/>
  <img src="https://user-images.githubusercontent.com/77303061/178125389-cf3d7faf-fec7-4bfa-a6a0-a49eefdc43a2.png" width="100px" height="100px" alt="nodejs"/>
  <img src="https://user-images.githubusercontent.com/77303061/178125205-3ba95f39-695f-45cd-8749-4bed24188af5.png" width="150px" height="100px" alt="mongodb"/>
 </div>
