@@ -2,7 +2,7 @@
 <p>- I'm currently learning some programming courses from <a href="https://www.idtech.com/">iD Tech.</a></p>
 <p>- I love to play and program videogames and I would like to learn more in the future.</p>
 <p>- My current favourite programming language is C#.</p>
-<p>- I like to listen to music while programming, I'm in a better mood.</p>
+<p>- I like to listen to music while programming.</p>
 <p>- My favourites sports are volleyball and padel.</p>
 
 
