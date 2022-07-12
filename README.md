@@ -44,6 +44,11 @@
  <a href="https://github.com/etrancho/Discover-Things">  
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=etrancho&repo=Discover-Things&theme=dark" alt="Current Repo" width="400px" height="140px"/>
  </a>
+ 
+ <h2>Projects from courses 🖼️</h2>
+ <a href="https://github.com/etrancho/Discover-Things">  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=etrancho&repo=Discover-Things&theme=dark" alt="Current Repo" width="400px" height="140px"/>
+ </a>
 
 <h2>Some games I like to program for fun 🎮</h2>
  <a href="https://github.com/etrancho/SnakeGame">  
