@@ -39,12 +39,12 @@
   <td><a href="https://www.idtech.com/courses/virtual-academy-ai-machine-learning-nvidia#/reg-flow/product-availability">Artificial Intelligence and Machine Learning</a></td>
  </tr>
 </table>
-
+<!---
 <h2>I'm currently working on (from AR/VR Design Certificate in Unity) 💼</h2>
  <a href="https://github.com/etrancho/Discover-Things">  
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=etrancho&repo=Discover-Things&theme=dark" alt="Current Repo" width="400px" height="140px"/>
  </a>
- 
+ -->
  <h2>Projects from courses 🖼️</h2>
  <a href="https://github.com/etrancho/Discover-Things">  
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=etrancho&repo=Discover-Things&theme=dark" alt="Current Repo" width="400px" height="140px"/>
