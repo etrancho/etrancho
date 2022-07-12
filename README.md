@@ -52,7 +52,7 @@
 
 <h2>Some games I like to program for fun 🎮</h2>
 <a href="https://github.com/etrancho/SnakeGame">  
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=etrancho&repo=&theme=dark" alt="Current Repo" width="400px" height="140px"/>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=etrancho&repo=SnakeGame&theme=dark" alt="Current Repo" width="400px" height="140px"/>
 </a>
 <a href="https://github.com/etrancho/MyHome">  
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=etrancho&repo=MyHome&theme=dark" alt="Current Repo" width="400px" height="140px"/>
