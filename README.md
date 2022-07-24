@@ -9,8 +9,10 @@
 <h2>My knowledge when it comes to coding 👩‍💻</h2>
 <h3></h3>
 <div class="row">
- <h3>Tools</h3>
+ <h3>Tools and operaring systems</h3>
  <img src="https://user-images.githubusercontent.com/77303061/178125196-ccd064c4-4686-4c8c-8308-1959ba3fa6a2.png" width="100px" height="45px" alt="git"/>
+ <img src="https://user-images.githubusercontent.com/77303061/180660237-5983fb1a-6cb7-463a-82b6-aa25d8224da0.png" width="150px" height="70px" alt="windows"/>
+ <img src="https://user-images.githubusercontent.com/77303061/180660388-1c830df8-8fee-436b-9847-e39ee9cf8bf4.png" width="150px" height="80px" alt="linux"/>
  <h3>Programming languages</h3>
  <img src="https://user-images.githubusercontent.com/77303061/178125094-3020e6cd-8b1a-478e-9f4f-266cfed81b1f.png" width="50px" height="50px" alt="c#"/>
  <img src="https://user-images.githubusercontent.com/77303061/178125161-c4080e9e-8152-496b-8fee-bbdb8b86bf28.png" width="60px" height="60px" alt="html5"/>
