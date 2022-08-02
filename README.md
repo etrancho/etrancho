@@ -6,12 +6,13 @@
 <p>- My favourites sports are volleyball and padel.</p>
 
 
+
 <h2>My knowledge when it comes to coding 👩‍💻</h2>
 <h3></h3>
 <div class="row">
  <h3>Tools and operaring systems</h3>
- <img src="https://user-images.githubusercontent.com/77303061/178125196-ccd064c4-4686-4c8c-8308-1959ba3fa6a2.png" width="100px" height="45px" alt="git"/>
- <img src="https://user-images.githubusercontent.com/77303061/180660237-5983fb1a-6cb7-463a-82b6-aa25d8224da0.png" width="150px" height="70px" alt="windows"/>
+ <img src="https://user-images.githubusercontent.com/77303061/182463620-ca62e8cc-38da-48b9-b212-0a1e5078cba8.png" width="50px" height="50px" alt="git"/>
+ <img src="https://user-images.githubusercontent.com/77303061/182463473-66876fa0-1bdd-4c29-b571-b00ec609d446.png" width="50px" height="50px" alt="windows"/>
  <img src="https://user-images.githubusercontent.com/77303061/180660388-1c830df8-8fee-436b-9847-e39ee9cf8bf4.png" width="150px" height="80px" alt="linux"/>
  <h3>Programming languages</h3>
  <img src="https://user-images.githubusercontent.com/77303061/178125094-3020e6cd-8b1a-478e-9f4f-266cfed81b1f.png" width="50px" height="50px" alt="c#"/>
@@ -24,7 +25,7 @@
  <h3>Databases</h3>
  <img src="https://user-images.githubusercontent.com/77303061/178155595-39610d40-0f8f-434d-9cb3-5ecfd7e31753.png" width="130px" height="90px" alt="mysql"/>
  <img src="https://user-images.githubusercontent.com/77303061/178125389-cf3d7faf-fec7-4bfa-a6a0-a49eefdc43a2.png" width="100px" height="100px" alt="nodejs"/>
- <img src="https://user-images.githubusercontent.com/77303061/178125205-3ba95f39-695f-45cd-8749-4bed24188af5.png" width="150px" height="100px" alt="mongodb"/>
+ <img src="https://user-images.githubusercontent.com/77303061/182463763-2b3eb188-bd93-42bf-8f2b-3b17ebd2c123.png" width="80px" height="80px" alt="mongodb"/>
 </div>
 
 
