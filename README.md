@@ -6,26 +6,26 @@
 <p>- My favourites sports are volleyball and padel.</p>
 
 
-
 <h2>My knowledge when it comes to coding 👩‍💻</h2>
 <h3></h3>
 <div class="row">
  <h3>Tools and operaring systems</h3>
- <img src="https://user-images.githubusercontent.com/77303061/182463620-ca62e8cc-38da-48b9-b212-0a1e5078cba8.png" width="50px" height="50px" alt="git"/>
- <img src="https://user-images.githubusercontent.com/77303061/182463473-66876fa0-1bdd-4c29-b571-b00ec609d446.png" width="50px" height="50px" alt="windows"/>
- <img src="https://user-images.githubusercontent.com/77303061/180660388-1c830df8-8fee-436b-9847-e39ee9cf8bf4.png" width="150px" height="80px" alt="linux"/>
+ <img src="https://user-images.githubusercontent.com/77303061/182463620-ca62e8cc-38da-48b9-b212-0a1e5078cba8.png" width="60px" height="60px" alt="git"/>
+ <img src="https://user-images.githubusercontent.com/77303061/182463473-66876fa0-1bdd-4c29-b571-b00ec609d446.png" width="60px" height="60px" alt="windows"/>
+ <img src="https://user-images.githubusercontent.com/77303061/182470080-c3759f28-bd98-491a-bc75-f4ac65508ada.png" width="60px" height="60px" alt="linux"/>
  <h3>Programming languages</h3>
- <img src="https://user-images.githubusercontent.com/77303061/178125094-3020e6cd-8b1a-478e-9f4f-266cfed81b1f.png" width="50px" height="50px" alt="c#"/>
- <img src="https://user-images.githubusercontent.com/77303061/178125161-c4080e9e-8152-496b-8fee-bbdb8b86bf28.png" width="60px" height="60px" alt="html5"/>
- <img src="https://user-images.githubusercontent.com/77303061/178125318-b2fd1c23-060c-493d-bb0f-908e1b6c5fc3.png" width="45px" height="60px" alt="css"/>
- <img src="https://user-images.githubusercontent.com/77303061/178125061-9a98c27a-e6c3-4e42-8ad8-1e8063235a98.png" width="60px" height="60px" alt="js"/>
- <img src="https://user-images.githubusercontent.com/77303061/178125143-0c287cd3-880b-455c-906b-00af4becb258.png" width="80px" height="50px" alt="python"/>
- <img src="https://user-images.githubusercontent.com/77303061/178125221-fe9dd1b0-5b66-4047-85a1-0cdb046ece2e.png" width="60px" height="60px" alt="java"/>
- <img src="https://user-images.githubusercontent.com/77303061/178124868-04a74945-0cfa-45d6-b2cf-9443ee5011c3.png" width="60px" height="60px" alt="react"/>
+ <img src="https://user-images.githubusercontent.com/77303061/182465141-df0626a6-84fd-4bac-a29f-64459ca95c29.png" width="60px" height="60px" alt="c#"/>
+ <img src="https://user-images.githubusercontent.com/77303061/182467399-83b2db10-31f5-4945-8086-b143621f5110.png" width="60px" height="60px" alt="c++"/>
+ <img src="https://user-images.githubusercontent.com/77303061/182468157-e3b8aaaf-238f-4b31-9de4-9ed39d58d9b4.png" width="60px" height="60px" alt="html5"/>
+ <img src="https://user-images.githubusercontent.com/77303061/182468213-40a5e01d-5287-4399-953f-0893e27634ca.png" width="60px" height="60px" alt="css"/>
+ <img src="https://user-images.githubusercontent.com/77303061/182467804-8b4d1395-480f-45ae-a00c-0cd9113ba10d.png" width="60px" height="60px" alt="js"/>
+ <img src="https://user-images.githubusercontent.com/77303061/182468308-83d818b3-60a3-4cf9-8767-591c9e7004fe.png" width="60px" height="60px" alt="python"/>
+ <img src="https://user-images.githubusercontent.com/77303061/182468475-d5f3f080-b8f9-477d-8d23-3b94943c0782.png" width="60px" height="60px" alt="java"/>
+ <img src="https://user-images.githubusercontent.com/77303061/182468571-87c8f6ef-f04e-4341-82d5-e628fd889961.png" width="60px" height="60px" alt="react"/>
  <h3>Databases</h3>
- <img src="https://user-images.githubusercontent.com/77303061/178155595-39610d40-0f8f-434d-9cb3-5ecfd7e31753.png" width="130px" height="90px" alt="mysql"/>
- <img src="https://user-images.githubusercontent.com/77303061/178125389-cf3d7faf-fec7-4bfa-a6a0-a49eefdc43a2.png" width="100px" height="100px" alt="nodejs"/>
- <img src="https://user-images.githubusercontent.com/77303061/182463763-2b3eb188-bd93-42bf-8f2b-3b17ebd2c123.png" width="80px" height="80px" alt="mongodb"/>
+ <img src="https://user-images.githubusercontent.com/77303061/182468759-3ec488e7-2a18-4faf-9cca-fb0333b70fcf.png" width="60px" height="60px" alt="mysql"/>
+ <img src="https://user-images.githubusercontent.com/77303061/182469128-aff3fd58-a9ab-4226-bf0d-a34de7f004f4.png" width="60px" height="60px" alt="nodejs"/>
+ <img src="https://user-images.githubusercontent.com/77303061/182469888-f93b8d40-2dac-4ce9-9c4e-21067d57b16f.png" width="60px" height="60px" alt="mongodb"/>
 </div>
 
 
