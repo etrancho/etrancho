@@ -10,22 +10,52 @@
 <h3></h3>
 <div class="row">
  <h3>Tools and operaring systems</h3>
- <img src="https://user-images.githubusercontent.com/77303061/182463620-ca62e8cc-38da-48b9-b212-0a1e5078cba8.png" width="60px" height="60px" alt="git"/>
- <img src="https://user-images.githubusercontent.com/77303061/182463473-66876fa0-1bdd-4c29-b571-b00ec609d446.png" width="60px" height="60px" alt="windows"/>
- <img src="https://user-images.githubusercontent.com/77303061/182470080-c3759f28-bd98-491a-bc75-f4ac65508ada.png" width="60px" height="60px" alt="linux"/>
+ <a href="https://git-scm.com/">
+  <img src="https://user-images.githubusercontent.com/77303061/182463620-ca62e8cc-38da-48b9-b212-0a1e5078cba8.png" width="60px" height="60px" alt="git"/>
+ </a>
+ <a href="">
+  <img src="https://user-images.githubusercontent.com/77303061/182463473-66876fa0-1bdd-4c29-b571-b00ec609d446.png" width="60px" height="60px" alt="windows"/>
+ </a>
+ <a href="https://www.linux.org/">
+  <img src="https://user-images.githubusercontent.com/77303061/182470080-c3759f28-bd98-491a-bc75-f4ac65508ada.png" width="60px" height="60px" alt="linux"/>
+ </a>
+ 
  <h3>Programming languages</h3>
- <img src="https://user-images.githubusercontent.com/77303061/182465141-df0626a6-84fd-4bac-a29f-64459ca95c29.png" width="60px" height="60px" alt="c#"/>
- <img src="https://user-images.githubusercontent.com/77303061/182467399-83b2db10-31f5-4945-8086-b143621f5110.png" width="60px" height="60px" alt="c++"/>
- <img src="https://user-images.githubusercontent.com/77303061/182468157-e3b8aaaf-238f-4b31-9de4-9ed39d58d9b4.png" width="60px" height="60px" alt="html5"/>
- <img src="https://user-images.githubusercontent.com/77303061/182468213-40a5e01d-5287-4399-953f-0893e27634ca.png" width="60px" height="60px" alt="css"/>
- <img src="https://user-images.githubusercontent.com/77303061/182467804-8b4d1395-480f-45ae-a00c-0cd9113ba10d.png" width="60px" height="60px" alt="js"/>
- <img src="https://user-images.githubusercontent.com/77303061/182468308-83d818b3-60a3-4cf9-8767-591c9e7004fe.png" width="60px" height="60px" alt="python"/>
- <img src="https://user-images.githubusercontent.com/77303061/182468475-d5f3f080-b8f9-477d-8d23-3b94943c0782.png" width="60px" height="60px" alt="java"/>
- <img src="https://user-images.githubusercontent.com/77303061/182468571-87c8f6ef-f04e-4341-82d5-e628fd889961.png" width="60px" height="60px" alt="react"/>
+ <a href="https://www.w3schools.com/cs/index.php">
+  <img src="https://user-images.githubusercontent.com/77303061/182465141-df0626a6-84fd-4bac-a29f-64459ca95c29.png" width="60px" height="60px" alt="c#"/>
+ </a>
+ <a href="https://www.w3schools.com/cpp/default.asp">
+  <img src="https://user-images.githubusercontent.com/77303061/182467399-83b2db10-31f5-4945-8086-b143621f5110.png" width="60px" height="60px" alt="c++"/>
+ </a>
+ <a href="https://git-scm.com/">
+  <img src="https://user-images.githubusercontent.com/77303061/182468157-e3b8aaaf-238f-4b31-9de4-9ed39d58d9b4.png" width="60px" height="60px" alt="html5"/>
+ </a>
+ <a href="https://git-scm.com/">
+  <img src="https://user-images.githubusercontent.com/77303061/182468213-40a5e01d-5287-4399-953f-0893e27634ca.png" width="60px" height="60px" alt="css"/>
+ </a>
+ <a href="https://git-scm.com/">
+  <img src="https://user-images.githubusercontent.com/77303061/182467804-8b4d1395-480f-45ae-a00c-0cd9113ba10d.png" width="60px" height="60px" alt="js"/>
+ </a>
+ <a href="https://git-scm.com/">
+  <img src="https://user-images.githubusercontent.com/77303061/182468308-83d818b3-60a3-4cf9-8767-591c9e7004fe.png" width="60px" height="60px" alt="python"/>
+ </a>
+ <a href="https://git-scm.com/">
+  <img src="https://user-images.githubusercontent.com/77303061/182468475-d5f3f080-b8f9-477d-8d23-3b94943c0782.png" width="60px" height="60px" alt="java"/>
+ </a>
+ <a href="https://git-scm.com/">
+  <img src="https://user-images.githubusercontent.com/77303061/182468571-87c8f6ef-f04e-4341-82d5-e628fd889961.png" width="60px" height="60px" alt="react"/>
+ </a>
+ 
  <h3>Databases</h3>
- <img src="https://user-images.githubusercontent.com/77303061/182468759-3ec488e7-2a18-4faf-9cca-fb0333b70fcf.png" width="60px" height="60px" alt="mysql"/>
- <img src="https://user-images.githubusercontent.com/77303061/182469128-aff3fd58-a9ab-4226-bf0d-a34de7f004f4.png" width="60px" height="60px" alt="nodejs"/>
- <img src="https://user-images.githubusercontent.com/77303061/182469888-f93b8d40-2dac-4ce9-9c4e-21067d57b16f.png" width="60px" height="60px" alt="mongodb"/>
+ <a href="https://git-scm.com/">
+  <img src="https://user-images.githubusercontent.com/77303061/182468759-3ec488e7-2a18-4faf-9cca-fb0333b70fcf.png" width="60px" height="60px" alt="mysql"/>
+ </a>
+ <a href="https://git-scm.com/">
+  <img src="https://user-images.githubusercontent.com/77303061/182469128-aff3fd58-a9ab-4226-bf0d-a34de7f004f4.png" width="60px" height="60px" alt="nodejs"/>
+ </a>
+ <a href="https://git-scm.com/">
+  <img src="https://user-images.githubusercontent.com/77303061/182469888-f93b8d40-2dac-4ce9-9c4e-21067d57b16f.png" width="60px" height="60px" alt="mongodb"/>
+ </a>
 </div>
 
 
