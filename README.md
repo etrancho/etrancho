@@ -27,33 +27,33 @@
  <a href="https://www.w3schools.com/cpp/default.asp">
   <img src="https://user-images.githubusercontent.com/77303061/182467399-83b2db10-31f5-4945-8086-b143621f5110.png" width="60px" height="60px" alt="c++"/>
  </a>
- <a href="https://git-scm.com/">
+ <a href="https://www.w3schools.com/html/">
   <img src="https://user-images.githubusercontent.com/77303061/182468157-e3b8aaaf-238f-4b31-9de4-9ed39d58d9b4.png" width="60px" height="60px" alt="html5"/>
  </a>
- <a href="https://git-scm.com/">
+ <a href="https://www.w3schools.com/css/default.asp">
   <img src="https://user-images.githubusercontent.com/77303061/182468213-40a5e01d-5287-4399-953f-0893e27634ca.png" width="60px" height="60px" alt="css"/>
  </a>
- <a href="https://git-scm.com/">
+ <a href="https://www.w3schools.com/js/default.asp">
   <img src="https://user-images.githubusercontent.com/77303061/182467804-8b4d1395-480f-45ae-a00c-0cd9113ba10d.png" width="60px" height="60px" alt="js"/>
  </a>
- <a href="https://git-scm.com/">
+ <a href="https://www.python.org/">
   <img src="https://user-images.githubusercontent.com/77303061/182468308-83d818b3-60a3-4cf9-8767-591c9e7004fe.png" width="60px" height="60px" alt="python"/>
  </a>
- <a href="https://git-scm.com/">
+ <a href="https://www.java.com/es/">
   <img src="https://user-images.githubusercontent.com/77303061/182468475-d5f3f080-b8f9-477d-8d23-3b94943c0782.png" width="60px" height="60px" alt="java"/>
  </a>
- <a href="https://git-scm.com/">
+ <a href="https://es.reactjs.org/">
   <img src="https://user-images.githubusercontent.com/77303061/182468571-87c8f6ef-f04e-4341-82d5-e628fd889961.png" width="60px" height="60px" alt="react"/>
  </a>
  
  <h3>Databases</h3>
- <a href="https://git-scm.com/">
+ <a href="https://www.mysql.com">
   <img src="https://user-images.githubusercontent.com/77303061/182468759-3ec488e7-2a18-4faf-9cca-fb0333b70fcf.png" width="60px" height="60px" alt="mysql"/>
  </a>
- <a href="https://git-scm.com/">
+ <a href="https://nodejs.org">
   <img src="https://user-images.githubusercontent.com/77303061/182469128-aff3fd58-a9ab-4226-bf0d-a34de7f004f4.png" width="60px" height="60px" alt="nodejs"/>
  </a>
- <a href="https://git-scm.com/">
+ <a href="https://www.mongodb.com/">
   <img src="https://user-images.githubusercontent.com/77303061/182469888-f93b8d40-2dac-4ce9-9c4e-21067d57b16f.png" width="60px" height="60px" alt="mongodb"/>
  </a>
 </div>
