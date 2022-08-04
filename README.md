@@ -78,19 +78,12 @@
    </a>
   </td>
   <td>
-   <a href="https://github.com/etrancho/AI_Galaxies">  
+   <a href="https://github.com/etrancho/AI_Galaxie">  
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=etrancho&repo=AI_Galaxies&theme=dark" alt="Current Repo" width="280px" height="100px"/>
    </a>
   </td>
  </tr>
 </table>
-
-<!---
-<h2>I'm currently working on (from AR/VR Design Certificate in Unity) 💼</h2>
- <a href="https://github.com/etrancho/Discover-Things">  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=etrancho&repo=Discover-Things&theme=dark" alt="Current Repo" width="400px" height="140px"/>
- </a>
- -->
 
 <h2>Some games I like to program for fun 🎮</h2>
 <a href="https://github.com/etrancho/SnakeGame">  
