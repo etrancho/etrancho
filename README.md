@@ -78,7 +78,7 @@
    </a>
   </td>
   <td>
-   <a href="https://github.com/etrancho/AI_Galaxie">  
+   <a href="https://github.com/etrancho/AI_Galaxies">  
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=etrancho&repo=AI_Galaxies&theme=dark" alt="Current Repo" width="280px" height="100px"/>
    </a>
   </td>
