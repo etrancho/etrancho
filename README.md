@@ -67,7 +67,7 @@
   <th><img src="https://user-images.githubusercontent.com/77303061/178085184-848a4276-5e6b-433e-8ba1-7358cb467bc4.png" width="250px" height="150px"/></th>
 </tr>
 <tr align="center">
-  <td><a href="https://www.idtech.com/courses/virtual-academy-ar-vr-unity-nyu-tandon#/reg-flow/product-availability">AR/VR Design Certificate in Unity</a></td>
+  <td><a href="https://www.idtech.com/courses/virtual-academy-ar-vr-unity-nyu-tandon#/reg-flow/product-availability">AR/VR Design in Unity</a></td>
   <td><a href="https://www.idtech.com/courses/virtual-academy-ai-machine-learning-nvidia#/reg-flow/product-availability">Artificial Intelligence and Machine Learning</a></td>
   <td><a href="https://www.idtech.com/courses/virtual-javascript-coding-powered-by-mit-open-learning-teen-tech-summer-certification-1#/reg-flow/product-availability">JavaScript Coding</a></td>
  </tr>
