@@ -2,9 +2,6 @@
 <p>- I'm currently studying industrial design in university.</p>
 <p>- I love to play and program videogames and I would like to learn more in the future.</p>
 <p>- My current favourite programming language is C#.</p>
-<p>- I like to listen to music while programming.</p>
-<p>- My favourites sports are volleyball and padel.</p>
-
 
 <h2>My knowledge when it comes to coding 👩‍💻</h2>
 <h3></h3>
