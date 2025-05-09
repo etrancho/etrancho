@@ -1,6 +1,6 @@
 <h2>Some facts about me 💬</h2>
-<p>- I'm currently studying industrial design in university.</p>
-<p>- I love to play and program videogames and I would like to learn more in the future.</p>
+<p>- A mix of studies.</p>
+<p>- I love to play and program videogames.</p>
 <p>- My current favourite programming language is C#.</p>
 
 <h2>My knowledge when it comes to coding 👩‍💻</h2>
