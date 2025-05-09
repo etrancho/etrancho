@@ -10,7 +10,7 @@
  <a href="https://git-scm.com/">
   <img src="https://user-images.githubusercontent.com/77303061/182463620-ca62e8cc-38da-48b9-b212-0a1e5078cba8.png" width="60px" height="60px" alt="git"/>
  </a>
- <a href="">
+ <a href="https://www.microsoft.com/en-us/windows?r=1">
   <img src="https://user-images.githubusercontent.com/77303061/182463473-66876fa0-1bdd-4c29-b571-b00ec609d446.png" width="60px" height="60px" alt="windows"/>
  </a>
  <a href="https://www.linux.org/">
